@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="248" height="257" viewBox="0 0 248 257">
+  <defs>
+    <clipPath id="clip-FHSD_Asset_B3">
+      <rect width="248" height="257"/>
+    </clipPath>
+  </defs>
+  <g id="FHSD_Asset_B3" clip-path="url(#clip-FHSD_Asset_B3)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-697.208 -1258.055)">
+      <path id="Path_35" data-name="Path 35" d="M443.216,64.088,396.648,126.54l-13.134,17.614a2.1,2.1,0,0,0,.748,2.856,2.139,2.139,0,0,0,2.856-.749l46.568-62.452L446.82,66.195a2.1,2.1,0,0,0-.749-2.856,2.138,2.138,0,0,0-2.855.749" transform="translate(400 1270)" fill="#2c338c"/>
+      <path id="Path_36" data-name="Path 36" d="M404.2,70.986a336.888,336.888,0,0,0,35.209,78q6.3,10.234,13.335,19.994a3.114,3.114,0,0,0,4.142,1.086,3.051,3.051,0,0,0,1.086-4.141A330.726,330.726,0,0,1,417.88,92.094q-4.334-11.212-7.845-22.717c-1.137-3.715-6.982-2.131-5.838,1.609" transform="translate(400 1270)" fill="#2c338c"/>
+    </g>
+  </g>
+</svg>
