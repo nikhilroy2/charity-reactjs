@@ -1,8 +1,12 @@
-# React + Vite
+https://www.campquality.org.au/
+https://www.starlight.org.au/
+both are referent websites
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+https://fshdglobal.org/
+it is the original website and we need to use same content from the original website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+and we need to use the only text content from the original website.
+
+so we need to create use the colors, font family, logos, box styles, images, and so from the reference websites.
