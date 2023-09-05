@@ -10,3 +10,5 @@ it is the original website and we need to use same content from the original we
 and we need to use the only text content from the original website.
 
 so we need to create use the colors, font family, logos, box styles, images, and so from the reference websites.
+
+<a href="https://charity-reactjs-nl.netlify.app/"> <h2> Live Preview </h2> </a>
