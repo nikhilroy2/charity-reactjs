@@ -1,4 +1,6 @@
 /** @type {import('tailwindcss').Config} */
+import svgr from 'vite-plugin-svgr'
+
 export default {
   content: [
     "./index.html",
@@ -32,6 +34,6 @@ export default {
       }
     }
   },
-  plugins: [],
+  plugins: [svgr()],
 }
 
