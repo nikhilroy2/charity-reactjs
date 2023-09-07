@@ -16,7 +16,7 @@ function Carousel(props) {
             <div className="container_wrapper">
                 <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
                     <SwiperSlide>
-                        <Link> <img src={CarouselImg} alt="" /> </Link>
+                        <Link to=""> <img src={CarouselImg} alt="" /> </Link>
                     </SwiperSlide>
                     <SwiperSlide>
                         <img src={CarouselImg} alt="" />
