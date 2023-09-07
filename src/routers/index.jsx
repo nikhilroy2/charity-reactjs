@@ -6,6 +6,7 @@ import Base from "../layout/Base/Base";
 // .................Pages............................
 import Homepage from "../pages/Homepage/Homepage";
 import OurRoleAndImpact from "../pages/OurRoleAndImpact/OurRoleAndImpact";
+import AboutTheFoundation from "../pages/OurRoleAndImpact/AboutTheFoundation";
 // .................Pages............................End
 
 function MyRoutes() {
@@ -17,6 +18,7 @@ function MyRoutes() {
                 <Routes>
                     <Route path="/" element={<Homepage/>}></Route>
                     <Route path="/our-role-impact" element={<OurRoleAndImpact/>}></Route>
+                    <Route path="/our-role-impact/about-the-foundation" element={<AboutTheFoundation/>}></Route>
                 </Routes>
 
             </Base>

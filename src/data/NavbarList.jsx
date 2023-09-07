@@ -9,12 +9,12 @@ export const NavbarList = [
             {
                 id: 1,
                 name: 'About the foundation',
-                link: '/about-the-foundation'
+                link: '/our-role-impact/about-the-foundation'
             },
             {
                 id: 2,
                 name: 'Our Mission',
-                link: '/our-role-impact/our-mission'
+                link: '/our-role-impact/our-role-impact/our-mission'
             },
         ]
     },
