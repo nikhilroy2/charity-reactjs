@@ -4,7 +4,7 @@ export const NavbarList= [
     {
         id: 1,
         name: 'Our Role & Impact',
-        link: '#'
+        link: '/our-role-impact'
     },
     {
         id: 2,
